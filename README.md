@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello There
+
+My name is P. Kac and I'm an electronics hobbyist and future Electrical Engineer
+
+I mainly do hardware projects and websites, you can check them out here https://pkindustry.org/
+
+
 
 <!--
 **Kacman62/Kacman62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
